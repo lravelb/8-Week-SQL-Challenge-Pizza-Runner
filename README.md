@@ -12,12 +12,12 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 # Available Data
 
-<br>Table 1: runners</br>
-<br>Table 2: customer_orders</br>
-<br>Table 3: runner_orders</br>
-<br>Table 4: pizza_names</br>
-<br>Table 5: pizza_recipes</br>
-<br>Table 6: pizza_toppings</br>
+· Table 1: runners</br>
+· Table 2: customer_orders</br>
+· Table 3: runner_orders</br>
+· Table 4: pizza_names</br>
+· Table 5: pizza_recipes</br>
+· Table 6: pizza_toppings</br>
 
 # Case Study Questions - A. Pizza Metrics
 
