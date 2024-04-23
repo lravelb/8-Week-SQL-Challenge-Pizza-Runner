@@ -1,6 +1,6 @@
 # 8-Week-SQL-Challenge-Pizza-Runner
 
-![Danny-s-Diner](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
+![Pizza-Runner](https://8weeksqlchallenge.com/images/case-study-designs/2.png)
 
 Web Link [Here](https://8weeksqlchallenge.com/case-study-2/) 
 
